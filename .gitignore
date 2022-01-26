@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.tif
+*.xml
+*.ovr
+/Data/mask
+/Data/output
+/Data/source
+/result
+/Scripts/mlruns
